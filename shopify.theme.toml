@@ -1,0 +1,4 @@
+
+[environments.dev]
+store = "luxuriant-leaves.myshopify.com"
+path = "./dist"
